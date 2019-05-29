@@ -2,6 +2,9 @@
 ## Description
 Computes the cost of a specialty coffee or tea beverage
 
+## Prerequisites
+PyCharm
+
 ## How Program Works
 The program will prompt the user to enter the following (in the specified order):
 a. The customer’s name (a string);
